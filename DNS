@@ -6,6 +6,7 @@
 @ 10800 IN MX 10 spool.mail.gandi.net.
 @ 10800 IN MX 50 fb.mail.gandi.net.
 @ 10800 IN TXT "v=spf1 include:_mailcust.gandi.net ?all"
+@ 10800 IN TXT "google-site-verification=3BAvEBkj3lCFKSizfsRxEkURJnIq5HVFWXV8wYFMWx8"
 blog 10800 IN CNAME blogs.vip.gandi.net.
 webmail 10800 IN CNAME webmail.gandi.net.
 www 1800 IN CNAME genisis.cloud
