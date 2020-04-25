@@ -12,10 +12,14 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://rigoroussolutions.com/Rigorous_Solutions_Founder_Resume_March2020.pdf</loc>
+  <loc>http://rigoroussolutions.com/FounderResumeApril2020.pdf</loc>
   <lastmod>2020-03-03T10:46:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+  <url>
+    <loc>http://rigoroussolutions.com/privacy</loc>
+    <lastmod>2020-03-03T10:46:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 
 </urlset>
