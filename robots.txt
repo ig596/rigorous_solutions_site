@@ -1,41 +1,68 @@
 User-agent: Applebot
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: baiduspider
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: Bingbot
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: Facebot
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: Googlebot
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: msnbot
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: Naverbot
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: seznambot
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: Slurp
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: teoma
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: Twitterbot
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: Yandex
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: Yeti
-Allow: /
+Allow: /index.html
+Allow: /privacy.html
+Disallow: /FounderResumeApril2020.pdf
 
 User-agent: *
 Disallow: /
+Disallow: /FounderResumeApril2020.pdf
